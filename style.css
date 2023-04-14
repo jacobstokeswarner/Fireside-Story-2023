@@ -1,10 +1,7 @@
 body {
-  color: lightblue;
-  background-color: #111;
-  font-size: 150%;
-  font-family: 'Satisfy', cursive;
+  color: white;
+  background-color: grey;
+  font-family: "Sacramento", cursive;
+  font-size: 175%;
   margin: 5em 25%;
-  margin-top: 5%;
-  margin-left: 20%;
-  margin-right: 20%;
 }
